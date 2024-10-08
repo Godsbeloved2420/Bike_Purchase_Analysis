@@ -69,21 +69,38 @@ file['Age Bracket']=file['Age'].apply(age_grouping)
 
 ### 4.2. Assumptions:
 The males purchased more bike more than the female gender due to the fact they earned more than the females.
+
+
 ## 5.0. Analysis
-### 5.1. Results:
+### 5.1. Results
 
-#### Car model with the highest resale value compared to its initial price
+#### Relationship between average income of each gender and their bike purchase history
 
-![picture 1](https://github.com/user-attachments/assets/ad471307-1f21-4328-84a5-8f89f01185a4)
+Purchased Bike	No	Yes
+Gender		
+Female	53440.0	55774.0
+Male	56208.0	60124.0
 
-#### Counting the number of missing values in each column 
+![picture 1](https://github.com/user-attachments/assets/e9f0837a-1c99-45c2-a314-d651effb82ff)
 
-![picture 2](https://github.com/user-attachments/assets/e8320966-5b8b-46ed-aa90-67d2083086da)
+#### Relationship between distance travelled by cummuters and bike purchase
 
-#### Dropping the columns with null values
+Purchased Bike
+Commute Distance	
+0-1 Miles	366
+1-2 Miles	169
+10+ Miles	111
+2-5 Miles	162
+5-10 Miles	192
 
-![picture 3](https://github.com/user-attachments/assets/09b088c7-a038-4260-8003-88f1e2c21082)
+![picture 2](https://github.com/user-attachments/assets/f1ca7034-3c1a-40a3-a4ef-2cdcf42e2b35)
 
+#### Relationship between age bracket and bike purchase
+
+|Age Bracket|        |Purchased Bike|	
+Adolescent	          110
+Middle Age	          701
+old	                  189
 #### Distribution of Car price in the dataset
 
 ![picture 4](https://github.com/user-attachments/assets/9209bd83-292b-4ec3-8652-ee0abc0d0ec3)
