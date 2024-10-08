@@ -26,7 +26,8 @@ https://docs.google.com/spreadsheets/d/1qzPm4m7N8K8KQcNwRcOZfbIZJ5YC0t0O/edit?us
 
 ## 3.0. Data Understanding
 
-### 3.1. Data description: The dataset came as a structured dataset which contained 157 observations and 16 columns. 
+### 3.1. Data description
+The dataset was gotten in a structured form and contains 1,026 rows and 13 columns. 
 
 ### 3.2. Exploratory data analysis (EDA): 
 Python (Jupiter notebook) was implored in cleaning and analyzing the dataset. At the end of the analysis, we were able to determine:
