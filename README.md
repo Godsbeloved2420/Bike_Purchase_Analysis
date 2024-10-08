@@ -30,28 +30,17 @@ https://docs.google.com/spreadsheets/d/1qzPm4m7N8K8KQcNwRcOZfbIZJ5YC0t0O/edit?us
 The dataset was gotten in a structured form and contains 1,026 rows and 13 columns. 
 
 ### 3.2. Exploratory data analysis (EDA): 
-Python (Jupiter notebook) was implored in cleaning and analyzing the dataset. At the end of the analysis, we were able to determine:
+Python (Google Colab) was implored in cleaning and analyzing the dataset. At the end of the analysis, we were able to:
 
-a) the manufacturer with the highest and lowest average sales volume.
+a) discover the relationship between average income of each gender and their bike purchase history.
 
-b) the distribution of car prices in the dataset.
+b) determine the relationship between distance travelled by cummuters and bike purchase.
 
-c) how the different numerical variables in the data set correlates with each other.
+c) visualize the relationship between age bracket and bike purchase.
 
-d) the relationship between price and latest launch year.
-
-e) the average price and fuel efficiency of each manufacturer by grouping.
-
-f)  the most popular car brands by visualization.
-
-g) which car model has the highest resale value compared to its initial price.
-
-h) the top 3 fuel-efficient cars with an engine size above 2.5 liters.
-
-i) which Lexus model has the highest horsepower.
 
 ## 4.0. Methodology
-### 4.1. Data preprocessing/Analytical Approach
+### 4.1. Data preprocessing
 
 The dataset was imported into Jupiter notebook, including the different libraries like: numpy, pandas, matplotlib and seaborn. The dataset was called 'data'.
 
