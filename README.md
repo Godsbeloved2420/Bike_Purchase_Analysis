@@ -1,4 +1,4 @@
-# Bike_Purchase_Analysis
+# Bike_Purchase_Analysis_using_Python
 
 ## 1.0. Title
 Bike Purchase Analysis using Python
@@ -67,13 +67,8 @@ def age_grouping(age):
 file['Age Bracket']=file['Age'].apply(age_grouping)
 ```
 
-e) descriptive statistics (mean, median, standard deviation) were conducted on the numerical columns (data.describe()).
-
-f) checking and removing of duplicates from the dataset (data.duplicated().sum())
-
 ### 4.2. Assumptions:
-Customers preferred cars produced by ‘Ford’ manufacturer compared to those produced by other manufacturers due to its average price and fuel efficiency.
-
+The males purchased more bike more than the female gender due to the fact they earned more than the females.
 ## 5.0. Analysis
 ### 5.1. Results:
 
