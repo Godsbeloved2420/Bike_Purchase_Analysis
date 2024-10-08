@@ -4,6 +4,7 @@
 Bike Purchase Analysis using Python
 
 ## 2.0 Introductilon
+
 ### 2.1. Objectives: 
 
 The aim of the analysis were to:
@@ -41,6 +42,7 @@ c) visualize the relationship between age bracket and bike purchase.
 
 
 ## 4.0. Methodology
+
 ### 4.1. Data preprocessing
 
 The dataset was imported into Google Drive then into Google Colab. The different libraries were also imported (Numpy, pandas, Matplotlib and Seaborn). The dataset was called 'file'.
@@ -49,9 +51,17 @@ The dataset was imported into Google Drive then into Google Colab. The different
 
 a) removing of duplicates (file.drop_duplicates (inplace = True)
 
-b) replacing 'M' and 'S' in the Marital Status column of the dataset with 'Married' and 'Single' respectively (file['Marital Status']=file['Marital Status'].replace(['M','S'],['Married','Single']). 
+b) replacing 'M' and 'S' in the Marital Status column of the dataset with 'Married' and 'Single' respectively 
 
-c) replacing 'M' and 'F' in the Gender column with 'Male' and 'Female' respectively (file['Gender']=file['Gender'].replace(['M','F'],['Male','Female']).
+```Python
+file['Marital Status']=file['Marital Status'].replace(['M','S'],['Married','Single'])
+```
+
+c) replacing 'M' and 'F' in the Gender column with 'Male' and 'Female' respectively 
+
+```Python
+file['Gender']=file['Gender'].replace(['M','F'],['Male','Female']).
+```
 
 d) grouping 'Age' into different age brackets.
 
@@ -72,14 +82,10 @@ The males purchased more bike more than the female gender due to the fact they e
 
 
 ## 5.0. Analysis
+
 ### 5.1. Results
 
 #### Relationship between average income of each gender and their bike purchase history
-
-Purchased Bike	No	Yes
-Gender		
-Female	53440.0	55774.0
-Male	56208.0	60124.0
 
 ![picture 1](https://github.com/user-attachments/assets/e9f0837a-1c99-45c2-a314-d651effb82ff)
 
