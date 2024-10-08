@@ -97,10 +97,14 @@ Commute Distance
 
 #### Relationship between age bracket and bike purchase
 
-|Age Bracket|        |Purchased Bike|	
-Adolescent	          110
-Middle Age	          701
-old	                  189
+|Age Bracket|       |Purchased Bike|
+|-----------|       |--------------|
+|Adolescent|        |110|
+|Middle Age|        |701|
+|old|               |189|
+	          
+	          
+                  
 #### Distribution of Car price in the dataset
 
 ![picture 4](https://github.com/user-attachments/assets/9209bd83-292b-4ec3-8652-ee0abc0d0ec3)
