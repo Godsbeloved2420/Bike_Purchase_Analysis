@@ -3,7 +3,7 @@
 ## 1.0. Title
 Bike Purchase Analysis using Python
 
-## 2.0 Introductilon
+## 2.0 Introduction
 
 ### 2.1. Objectives: 
 
