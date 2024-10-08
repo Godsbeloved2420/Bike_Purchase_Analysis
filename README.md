@@ -12,7 +12,7 @@ a) discover the relationship between average income of each gender and their bik
 
 b) determine the relationship between distance travelled by cummuters and bike purchase.
 
-c) Relationship between age bracket and bike purchase.
+c) visualize the relationship between age bracket and bike purchase.
 
 
 ### 2.2. Context:
