@@ -17,7 +17,7 @@ c) visualize the relationship between age bracket and bike purchase.
 
 ### 2.2. Context:
 
-The dataset is made up of data collected by a company that deals on bike. The different fields contain different socio-demographic and bike purchase information of the customers. Which includes: ID,	Marital Status,	Gender,	Income,	Children,	Education,	Occupation,	Home Owner,	Cars,	Commute Distance,	Region,	Age,	Purchased Bike. The dataset contains different datatype which includes: strings, integers and floats.
+The dataset is made up of data collected by a company that deals on bike. The different fields contain different socio-demographic and bike purchase information of the customers. Which includes: ID,	Marital Status,	Gender,	Income,	Children,	Education,	Occupation,	Home Owner,	Cars,	Commute Distance,	Region,	Age,	Purchased Bike. The dataset contains two datatypes: strings and integers.
 
 ### 2.3. Data Sources
 
@@ -29,7 +29,8 @@ https://docs.google.com/spreadsheets/d/1qzPm4m7N8K8KQcNwRcOZfbIZJ5YC0t0O/edit?us
 ### 3.1. Data description
 The dataset was gotten in a structured form and contains 1,026 rows and 13 columns. 
 
-### 3.2. Exploratory data analysis (EDA): 
+### 3.2. Exploratory data analysis (EDA)
+
 Python (Google Colab) was implored in cleaning and analyzing the dataset. At the end of the analysis, we were able to:
 
 a) discover the relationship between average income of each gender and their bike purchase history.
@@ -47,12 +48,12 @@ The dataset was imported into Google Drive then into Google Colab. The different
 #### Some of the steps taken in cleaning of the dataset includes:
 
 a) removing of duplicates (file.drop_duplicates (inplace = True)
-b) determining the different data types of the different columns in the dataset (data.info() which data.dtypes worked perfectly for it too) and also changing the columns with 
-inappropriate datatypes with the appropriate one.
 
-c) checking for missing values and their number in each column (data.isnull().sum()), filling up the 'year resale value' with it's average (Average_year_sales =data["_year_resale_value"].mean(), data.["_year_resale_value"].fillna, Average_year_sales, inplace= True) and dropping the other rows with null values (data= data.dropna()).
+b) replacing 'M' and 'S' in the Marital Status column of the dataset with 'Married' and 'Single' respectively (file['Marital Status']=file['Marital Status'].replace(['M','S'],['Married','Single']). 
 
-d) cleaning the name of the "__year_resale_value" column by removing the leading underscore (data.rename.(columns={'__year_resale_value:"year_resale_value}, inplace= True))
+c) replacing 'M' and 'F' in the Gender column with 'Male' and 'Female' respectively (file['Gender']=file['Gender'].replace(['M','F'],['Male','Female']).
+
+d) 
 
 e) descriptive statistics (mean, median, standard deviation) were conducted on the numerical columns (data.describe()).
 
