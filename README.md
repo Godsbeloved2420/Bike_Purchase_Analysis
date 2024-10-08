@@ -102,48 +102,28 @@ The males purchased more bike more than the female gender due to the fact they e
 
 From the result, it can be seen:
 
-•	The male had a higher income and purchased more bike than the females.
+•	The male customers earned more than the females and therefore purchased more bike than the females.
 
 •	the company had more patronise from customers who travel 0-1 miles compared to others. The lowest patronise came from that travelled distances more than 10 miles.
 
-•	There’s a strong correlation between ‘Horsepower’ and ‘Power perf factor’ where p=0.99.
+•	the middle-aged customers purchased bike the most compared to the adolescents and the old customers.
 
-•	The highest increase in Car price was in 2011.
-
-•	‘Ford’ is mostly purchased by customers.
-
-•	Car model with the highest resale value is Carrera Cabrio. 
-
-•	‘Impala’, ‘Monte Carlo’ and ‘CLK Coupe’ are the top three (3) fuel efficient cars with an engine above 2.5 liters.
-
-•	The ‘Lexus’ model with the highest ‘Horsepower’ is ‘Viper’ with 450 Horsepower.
+•	
 
 ## 6.0. Conclusion
+
 ### 6.1. Summary of finding:
 
-•	The dataset came as a structured dataset which contained 157 observations and 16 columns. 
+•	TThe dataset contained data collected by a Bike company that deals on bike. The different fields contain different socio-demographic and bike purchase history of the customers.
 
-•	The dataset contains integers, strings and floats.
+•	The dataset had 26 duplicates which was dropped from the dataset.
 
-•	The ‘Year resale value’ column had the highest null value (36) in the dataset.
+•	The male customers earned more than the females and therefore purchased more bike than the females.
 
-•	The dataset had no duplicates but contains a total of fifty-one (51) null values. 
+•	the company had more patronise from customers who travel 0-1 miles compared to others. The lowest patronise came from that travelled distances more than 10 miles.
 
-•	‘Ford’ is the Manufacturer with the highest average sales volume while ‘Porsche’ is the manufacturer with the lowest average sales volume.
+•	the middle-aged customers purchased bike the most compared to the adolescents and the old customers.
 
-•	‘Mercedes-B’ is the manufacturer with the highest car price in the dataset.
-
-•	There’s a strong correlation between ‘Horsepower’ and ‘Power perf factor’ where p=0.99.
-
-•	The highest increase in Car price took place in 2011.
-
-•	‘Ford’ is most popular Car Manufacturer.
-
-•	‘Carrera Cabrio’ is the Car model with the highest resale value.
-
-•	‘Impala’, ‘Monte Carlo’ and ‘CLK Coupe’ are the top three (3) fuel efficient cars with an engine above 2.5 liters.
-
-•	The ‘Lexus’ model with the highest ‘Horsepower’ is ‘Viper’ with 450 Horsepower.
 
 ## 7.0. Acknowledgement
 
