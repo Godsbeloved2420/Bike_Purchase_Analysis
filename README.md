@@ -17,13 +17,12 @@ c) Relationship between age bracket and bike purchase.
 
 ### 2.2. Context:
 
-The dataset is made up of data collected by a company that deals on bike. The different fields contain different socio-demographic and ike purchase information of the customers  Some of the variables that made up the dataset includes: Car Manufacturer, Model, Sales, year resale value, Vehicle type, Price, Engine size, Horsepower, Wheelbase, Width, Length, Curb weight, Fuel capacity, Fuel efficiency, Latest Launch year and Power perf factor. The dataset contains different datatype which includes: strings, integers and floats.
+The dataset is made up of data collected by a company that deals on bike. The different fields contain different socio-demographic and bike purchase information of the customers. Which includes: ID,	Marital Status,	Gender,	Income,	Children,	Education,	Occupation,	Home Owner,	Cars,	Commute Distance,	Region,	Age,	Purchased Bike. The dataset contains different datatype which includes: strings, integers and floats.
 
 ### 2.3. Data Sources
 
-The primary source of data used here is Car_sales.csv and it's an open source data which was given as a practice data. The following is the link to the dataset: 
-
-https://drive.google.com/file/d/1TLTcaj1-YRat32RBeKwl-g3eyUP7QI5u/view?usp=drive_link
+The primary source of data used here is bikedata.xlsx which was gotten as an excel file and it's an open source data which was given as a practice data. The following is the link to the dataset: 
+https://docs.google.com/spreadsheets/d/1qzPm4m7N8K8KQcNwRcOZfbIZJ5YC0t0O/edit?usp=drive_link&ouid=106458428464023242528&rtpof=true&sd=true
 
 ## 3.0. Data Understanding
 
