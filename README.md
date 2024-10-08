@@ -85,38 +85,13 @@ Male	56208.0	60124.0
 
 #### Relationship between distance travelled by cummuters and bike purchase
 
-Purchased Bike
-Commute Distance	
-0-1 Miles	366
-1-2 Miles	169
-10+ Miles	111
-2-5 Miles	162
-5-10 Miles	192
-
 ![picture 2](https://github.com/user-attachments/assets/f1ca7034-3c1a-40a3-a4ef-2cdcf42e2b35)
 
 #### Relationship between age bracket and bike purchase
-
-|Age Bracket|       |Purchased Bike|
-|-----------|       |--------------|
-|Adolescent|        |110|
-|Middle Age|        |701|
-|old|               |189|
 	          
-	          
-                  
-#### Distribution of Car price in the dataset
+![picture 3](https://github.com/user-attachments/assets/82d0f979-dfba-4d93-9911-257640dca2e3)
 
-![picture 4](https://github.com/user-attachments/assets/9209bd83-292b-4ec3-8652-ee0abc0d0ec3)
-
-#### Correlation of numerical values in the dataset
-
-![picture 5](https://github.com/user-attachments/assets/33409225-ba9e-4ad0-84ad-1627f109f63f)
-
-#### Relationship between Price and Latest launch year
-
-![picture 6](https://github.com/user-attachments/assets/c6fe8082-64c6-4364-8f56-41a45c9897c8)
-
+                        
 ### 5.2. Interpretation/key findings: 
 
 From the result, it can be seen:
