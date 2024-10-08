@@ -102,9 +102,9 @@ The males purchased more bike more than the female gender due to the fact they e
 
 From the result, it can be seen:
 
-•	‘Ford’ is the Manufacturer with the highest average sales volume while ‘Porsche’ is the manufacturer with the lowest average sales volume.
+•	The male had a higher income and purchased more bike than the females.
 
-•	‘Mercedes-B’ is the manufacturer with the highest car price in the dataset.
+•	the company had more patronise from customers who travel 0-1 miles compared to others. The lowest patronise came from that travelled distances more than 10 miles.
 
 •	There’s a strong correlation between ‘Horsepower’ and ‘Power perf factor’ where p=0.99.
 
