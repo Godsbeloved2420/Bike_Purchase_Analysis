@@ -8,25 +8,16 @@ Bike Purchase Analysis using Python
 
 The aim of the analysis were to:
 
-a) discover the relationship between average income of each gender and their bike purchase history
+a) discover the relationship between average income of each gender and their bike purchase history.
 
-b) to discover the distribution of car prices in the data.
+b) determine the relationship between distance travelled by cummuters and bike purchase.
 
-c) to determine how the different numerical variables in the data set correlates with each other.
+c) Relationship between age bracket and bike purchase.
 
-d) to determine the relationship between price and latest launch year.
-
-e) to group cars by manufacturers in order to analyze their average price and fuel efficiency.
-
-f) to identify and visualize the most popular car brands. g) to identify which car model has the highest resale value compared to its initial price.
-
-h) to find out the top 3 fuel-efficient cars with an engine size above 2.5 liters.
-
-i) to determine which Lexus model has the highest horsepower.
 
 ### 2.2. Context:
 
-The dataset the different fields collected by a company that deals on car sales.  Some of the variables that made up the dataset includes: Car Manufacturer, Model, Sales, year resale value, Vehicle type, Price, Engine size, Horsepower, Wheelbase, Width, Length, Curb weight, Fuel capacity, Fuel efficiency, Latest Launch year and Power perf factor. The dataset contains different datatype which includes: strings, integers and floats.
+The dataset is made up of data collected by a company that deals on bike. The different fields contain different socio-demographic and ike purchase information of the customers  Some of the variables that made up the dataset includes: Car Manufacturer, Model, Sales, year resale value, Vehicle type, Price, Engine size, Horsepower, Wheelbase, Width, Length, Curb weight, Fuel capacity, Fuel efficiency, Latest Launch year and Power perf factor. The dataset contains different datatype which includes: strings, integers and floats.
 
 ### 2.3. Data Sources
 
