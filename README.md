@@ -23,6 +23,7 @@ The dataset is made up of data collected by a company that deals on bike. The di
 ### 2.3. Data Sources
 
 The primary source of data used here is bikedata.xlsx which was gotten as an excel file and it's an open source data which was given as a practice data. The following is the link to the dataset: 
+
 https://docs.google.com/spreadsheets/d/1qzPm4m7N8K8KQcNwRcOZfbIZJ5YC0t0O/edit?usp=drive_link&ouid=106458428464023242528&rtpof=true&sd=true
 
 ## 3.0. Data Understanding
