@@ -42,12 +42,11 @@ c) visualize the relationship between age bracket and bike purchase.
 ## 4.0. Methodology
 ### 4.1. Data preprocessing
 
-The dataset was imported into Jupiter notebook, including the different libraries like: numpy, pandas, matplotlib and seaborn. The dataset was called 'data'.
+The dataset was imported into Google Drive then into Google Colab. The different libraries were also imported (Numpy, pandas, Matplotlib and Seaborn). The dataset was called 'file'.
 
-#### Some of the steps taken in the preprocessing of the data are:
+#### Some of the steps taken in cleaning of the dataset includes:
 
-a) viewing the dataset to determine the number of rows and columns (data.shape).
-
+a) removing of duplicates (file.drop_duplicates (inplace = True)
 b) determining the different data types of the different columns in the dataset (data.info() which data.dtypes worked perfectly for it too) and also changing the columns with 
 inappropriate datatypes with the appropriate one.
 
