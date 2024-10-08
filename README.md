@@ -53,7 +53,19 @@ b) replacing 'M' and 'S' in the Marital Status column of the dataset with 'Marri
 
 c) replacing 'M' and 'F' in the Gender column with 'Male' and 'Female' respectively (file['Gender']=file['Gender'].replace(['M','F'],['Male','Female']).
 
-d) 
+d) grouping 'Age' into different age brackets.
+
+```Python
+def age_grouping(age):
+    if age<=30:
+        return 'Adolescent'
+    elif age<=54:
+        return 'Middle Age'
+    else:
+        return 'old'
+    
+file['Age Bracket']=file['Age'].apply(age_grouping)
+```
 
 e) descriptive statistics (mean, median, standard deviation) were conducted on the numerical columns (data.describe()).
 
