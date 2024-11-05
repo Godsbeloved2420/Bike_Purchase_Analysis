@@ -1,4 +1,4 @@
-# Bike_Purchase_Analysis_using_Python
+a# Bike_Purchase_Analysis_using_Python
 
 ## 1.0. Title
 Bike Purchase Analysis using Python
@@ -128,5 +128,5 @@ From the result, it can be seen:
 
 ## 7.0. Acknowledgement
 
-I acknowledge PSP Analytics for this great platform for learning. I want to sincerely our facilitators (Mr. Okon Prince, Mr. Joseph Edet, Mr. Joseph Elijah and Mr. Zion) for providing the dataset that was used for this analysis and for their tireless efforts to ensure we get the best from the training. Google Colab was employed in this analysis.
+I acknowledge LITA for this great platform for learning. I want to sincerely appreciate Mr. Joseph Elijah for providing the dataset that was used for this analysis. Google Colab was employed in this analysis.
 
